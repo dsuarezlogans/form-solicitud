@@ -1,0 +1,22 @@
+{
+  "name": "form-solicitud",
+  "version": "1.0.0",
+  "description": "formulario de solicitud de credito para la demo financiera efectiva",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsuarezlogans/form-solicitud.git"
+  },
+  "author": "Danny Suarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dsuarezlogans/form-solicitud/issues"
+  },
+  "homepage": "https://github.com/dsuarezlogans/form-solicitud#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
